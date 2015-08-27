@@ -2,6 +2,8 @@
 
 This firmware can be used in an ATmega328p MCU to directly read the pins of an LCD screen. This was created as part of a larger project wher the weight display of digital scale is read and published to the internet. A full guide to using this firmware can be found on Instructables.
 
+http://www.instructables.com/id/Direct-Reading-of-LCD-Using-General-Purpose-IO/
+
 ####Contents
 * **lcdReader_main-v1.0c** - Reads Scale LCD, Writes to Local LCD
 * **lcdReader_main-v2.0c** - Reads Scale LCD, packs data into 2 bytes
