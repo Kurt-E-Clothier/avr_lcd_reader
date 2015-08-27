@@ -277,7 +277,7 @@ static void readLCD(void)
 	DISABLE_ACI();
 }
 
-// Get Pot Level based on Scale LCD reading
+// Get Level based on Scale LCD reading
 static void updateLevel(void)
 {
 	uint8_t weight0 = 0;
